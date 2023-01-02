@@ -20,6 +20,7 @@ const Footer = () => (
           Enter the Metaverse
         </h4>
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
+        /* eslint-disable eol-last */
           <img
             src="/headset.svg"
             alt="headset"
